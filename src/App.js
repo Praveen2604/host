@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         <h1>Hi,..React app was hosted seccessfully in AWS s3 bucket........</h1>
         </p>
         <a
           className="App-link"
